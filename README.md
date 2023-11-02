@@ -30,3 +30,7 @@ M5 Stack (M5GO)のUiFLOWプログラム:
 3. Motion Sensor: pir.py
 
 人感センサーです。
+
+(c) Shinya TAKEUCHI
+
+license BSD-2-Clause
